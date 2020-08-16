@@ -19,3 +19,5 @@ export {
   Weight,
   WeightContainer,
 };
+
+/* ajout de ce fichier */
